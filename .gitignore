@@ -1,0 +1,25 @@
+# jetbrains config
+.idea
+cmake-build-debug
+*.iml
+
+*.log
+*.aux
+*.gz
+
+#maven build
+target
+
+# src_cpp_matlab-python files
+*.pyc
+
+# output data
+output*.txt
+
+# matlab
+*.mex*
+
+# datasets
+facebook100.zip
+
+/OthersCode
